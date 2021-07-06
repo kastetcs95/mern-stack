@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "kastetcs",
+    "mongoUri": "mongodb+srv://kastetcs:1828339@cluster0.6dkha.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
